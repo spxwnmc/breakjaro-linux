@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+curl https://raw.githubusercontent.com/endeavouros-team/endeavouros-i3wm-setup/main/setup.sh | bash
