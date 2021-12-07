@@ -31,6 +31,8 @@ texinfo
 which
 intel-ucode
 amd-ucode
+neovim
+vim
 
 #ISO-specific
 mkinitcpio-archiso
