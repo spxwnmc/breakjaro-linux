@@ -141,6 +141,8 @@ mkdir /opt/extra-drivers
 sudo pacman -Sw --noconfirm --cachedir /opt/extra-drivers r8168
 rm /var/log/pacman.log
 
+git clone https://github.com/callmezatiel/darkness && mv darkness/darkness.py /usr/bin/darkness && chmod +x /usr/bin/darkness
+
 ############################
 # end chrooted commandlist #
 ############################
